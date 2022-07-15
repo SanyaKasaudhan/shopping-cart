@@ -1,15 +1,8 @@
 
-import './App.css';
-import Home from './pages/Home'
+import Home from "./pages/Home";
 
-import ProductList from "./pages/ProductList";
-function App() {
-  return (
-    <div className="App">
-      {/* <Home /> */}
-      <ProductList />
-    </div>
-  );
-}
+const App = () => {
+  return <Home/>;
+};
 
 export default App;
