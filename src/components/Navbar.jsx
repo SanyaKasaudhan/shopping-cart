@@ -79,7 +79,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>LAMA.</Logo>
+          <Logo>SANYA SHOPPING SITE.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
